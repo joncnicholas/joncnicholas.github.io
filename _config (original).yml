@@ -1,0 +1,41 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Jonathan Nicholas
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jonathan Nicholas, and I am a former information security consultant, turned pilot in training.If you wish, you can find out more <a href="/about/">About</a> me.<br>
+  I have created this website because I find that reflecting on experiences is an important way of learning from them.<br>
+  Furthermore, I want this website to be a resource to learn from where anyone else in similar shoes.<br>
+  Please check out my posts on the Blog.<br> 
+  Happy reading!<br>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://joncnicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+author:
+  name: 'Jonathan Nicholas'
+  last_name: 'Nicholas'
+  cv: '/'
+  avatar: '/images/plane.png'
+  github_username:  joncnicholas  
+  email: notificationinboxio@gmail.com
+  logo: '/images/plane.png'
+
+# Build settings
+markdown: kramdown
+
+permalink: /:categories/:year/:title.html
+
+

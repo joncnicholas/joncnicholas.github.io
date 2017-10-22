@@ -1,0 +1,45 @@
+<!-- categories.html -->
+
+{% assign category = page.url | remove:'/' %} <!-- category --->
+
+    <style>
+        .cat-header:after {
+            background: #2ebaae;
+            content: '';
+            display: block;
+            height: 2px;
+            margin: 0.75em auto 0 auto;
+            position: relative;
+            width: 4em;
+            }
+    </style>
+
+<section>
+    <ul class="posts">
+
+      {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last %}
+
+        <ul>
+        {% assign occ = 0 %}
+        {% for post in site.categories.[category] %}
+          {% if post.tags contains t %}
+            {% if occ == 0 %}
+              <h1 class="cat-header" style="text-align: center;">{{t}}</h1>
+            {% endif %}
+
+            <article>
+        			<header>
+        				<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+        					<time class="published" datetime="2015-10-20">{{post.date | date: "%d %b %Y %R"}}</time>
+        			</header>
+        			<a href="{{post.url | relative_url}}" class="image"><img src="{{site.baseurl}}/images/{{ post.icon }}.svg"/></a>
+        		</article>
+            {% capture occ %}{{ occ | plus:1 }}{% endcapture %}
+          {% endif %}
+        {% endfor %}
+        </ul>
+      {% endfor %}
+
+</section>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <meta name="robots" content="all"/>
+  <meta name="author" content="Jonathan Nicholas">
+  <meta name="description" content="After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of ...">
+
+  
+  <title>A Flying Invention</title>
+  
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/flying/2016/a-flying-invention.html">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/animate.css">
+  <script src="/assets/js/jquery.min.js"></script>
+</head>
+
+
+  
+    <body class="single">
+  
+
+  <div class="toTop">
+    <li class="fa fa-angle-up"></li>  
+  </div>  
+
+
+    <div id="wrapper">
+
+    <!-- Header -->
+  <header id="header">
+    <h1><a href="/">JNicholas</a></h1>
+    <nav class="links">
+      <ul>
+        
+          <li><a href="/about/">About</a></li>
+        
+          <li><a href="/flying/">Flying</a></li>
+        
+          <li><a href="/outdoors/">Outdoors</a></li>
+        
+          <li><a href="/contact/">Contact</a></li>
+        
+          <li><a href="/learning-resources/"></a></li>
+        
+        
+      </ul>
+
+    </nav>
+    <nav class="main">
+      <ul>
+        <li class="menu">
+          <a class="fa-bars" href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Menu -->
+    <section id="menu">
+      <!-- Search -->
+      <section>
+        <ul class="links">
+          
+          
+          <li><a href="/about/"><h3>About</h3></a></li>
+          
+          <li><a href="/flying/"><h3>Flying</h3></a></li>
+          
+          <li><a href="/outdoors/"><h3>Outdoors</h3></a></li>
+          
+          <li><a href="/contact/"><h3>Contact</h3></a></li>
+          
+          <li><a href="/learning-resources/"><h3></h3></a></li>
+          
+          
+        </ul>
+      </section>
+    </section>
+  </header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div id="main">
+        <article class="post">
+  <header> 
+    <div class="title">
+      <h2>A Flying Invention</h2>
+      <!--<p><a href="//github.com/joncnicholas/joncnicholas.github.io/_posts/2016-01-06-a-flying-invention.markdown" class="icon fa-edit">Edit on Github</a></p>-->
+    </div>
+    <div class="meta">
+      <time class="published" datetime="2016-01-06 13:00:34 +0000">06 Jan 2016 13:00</time>
+      <a href="/" class="author"><span class="name">J.Nicholas</span><img src="/images/plane.png" alt="JNicholas" /></a>
+    </div>
+  </header>
+  <p>After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of time is navigation planning in the days before and the morning before the trip. As such, my day job has led me to produce some complex numerical models primarily in Excel and thought I’d try and produce a tool that will automate some of the navigation planning given a set of inputs. All in an effort to let me wake up later on the day!</p>
+
+<p>Navigation planning is exceptionally important and the proper time should be spent on ensuring you have all aspects covered because being unprepared can lead to bad decisions, ultimately making a fun trip, hazardous.</p>
+
+<p>I have created an Excel “Pre-Flight Calculator” (attached below) which effectively takes a set of variables and calculates: weight and balance (including fuel calculations), centre of gravity (CoG -including aircraft envelopes), and all necessary performance calculations. You cannot automate everything in navigation planning, but after a number of flights using various iterations of this calculator, I have been able to save circa 30-40 minutes on the morning If all pre-flight planning was complete prior.  The model does require input on a number of elements like landing &amp; take-off ground roll and assessment of conditions to establish what performance conditions are pertinent on the day. However, once these are known the results process is automated and near instant.</p>
+
+<p><img src="https://joncnicholas.files.wordpress.com/2016/01/pfpm_front.png" alt="PFPM_front" /></p>
+
+<p><a href="https://joncnicholas.files.wordpress.com/2017/07/pre-flight-calculator-v1-9-master.xlsx">Pre Flight Calculator v1.9 - Master</a></p>
+
+<p>I have created the model based upon Stapleford Flight Centre aircraft and out of the box it is compatible with the following general aviation aircraft types: Cessna 152 &amp;172, Piper Warrior (PA28) and Arrow (PA28R). However, I have designed this model to be easily adaptable to any aircraft type with foundational excel knowledge given that the user knows the correct information to input i.e. aircraft schedule information, fuel limitations and aircraft envelope details. These can all be seen in ‘Aircraft Schedule info’ tab. What I have mentioned here is aimed at providing accurate weight, fuel and CoG representation. The last part of the model provides automated representation of the performance calculations. This section takes user input variables on airfield and performance conditions and uses model information in the ‘Airfields and Performance’ tab to accurately display required take-off and landing distances.</p>
+
+<p>Audience and Considerations of use:</p>
+
+<ol>
+  <li>
+    <p>I produced the model to streamline my planning. However, I envisage 3 further users for the tool: GA pilots wanting a free and easy to use tool (majority), GA pilots wanting to adapt it (minority) and possibly commercial pilots flying smaller aviation aircraft wanting to adapt it (few).</p>
+  </li>
+  <li>
+    <p>If you want to use for general aviation purposes, then you can use this model out of the box with foundational excel knowledge. However, if you want to use it for new aircraft a basic understanding of excel formulae and logic is required to amend correctly.</p>
+  </li>
+  <li>
+    <p>The model only supports aircraft using AVGAS 100LL fuel with a Specific Gravity of 0.72. It is not compatible with AVTUR because of my current uses. However, the fuel calculations are actually derived using weights and conversions which can be seen in Appendix A tab (AVGAS based). <em>Functionality added in <strong>v1.7</strong> - See comment #2</em></p>
+  </li>
+  <li>
+    <p>If you want to use the model with new aircraft types ensure you change the third and fourth yellow tabs (described above) and ensure you sanity check the variables sheet as larger aircraft will require more boxes for more passenger weights and therefore, a small change to the weight and balance tab to reflect the aircraft.</p>
+  </li>
+  <li>
+    <p>Units in this model are consistent throughout: Pounds [lbs] for weight and Litres [L] for volume. However, conversions to USG and Kilograms [kg] are present in relevant places. *As of <strong>v1.9</strong>, the introduction of meteorological units (hPa and degrees Centigrade) to ascertain pressure and density altitude in feet have been added - see comment #4.</p>
+  </li>
+</ol>
+
+<p>I’d relish feedback on the attached model so please use it, adjust it and disperse it to your heart’s content. Likewise, please feel free to comment.</p>
+
+<p>I enjoyed producing this tool as it has given me a better understanding of the aircraft I fly, allowed me to become more efficient in my navigation planning and ultimately I hope it leads me to become a safer pilot.</p>
+
+</div>
+</article>
+<ul class="actions pagination">
+  
+    <li><a href="/outdoors/2015/my-first-scottish-munro.html" class="button big previous">Previous Page</a></li>
+  
+  
+    <li><a href="/flying/2016/one-hundred-hours-of-flying.html" class="button big next">Next Page</a></li>
+  
+</ul>
+
+
+<div id="hypercomments_widget"></div>
+<script type="text/javascript">
+_hcwp = window._hcwp || [];
+_hcwp.push({widget:"Stream", widget_id: 95376});
+(function() {
+if("HC_LOAD_INIT" in window)return;
+HC_LOAD_INIT = true;
+var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/95376/"+lang+"/widget.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+<a href="http://hypercomments.com" rel = "nofollow" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+
+
+        
+      </div>
+    </main>
+    
+     
+
+            <!-- Footer -->
+              <section id="footer">
+                <ul class="icons">
+                  <li><a href="https://www.linkedin.com/in/jonathannicholas1/" class="fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+                  <li><a href="https://github.com/joncnicholas/joncnicholas.github.io" class="fa-github"><span class="label">GitHub</span></a></li>
+                   <li><a href="https://twitter.com/JonathanNicho18" class="fa-twitter"><span class="label">Twitter</span></a></li>
+                </ul>
+                <p class="copyright"> Designed by <a href="https://github.com/vikapitoshka/blog">Kapitonenko.</a> Modified by <a href="https://github.com/joncnicholas/joncnicholas.github.io">JNicholas.</a></p>
+              </section>
+          </section>
+
+
+		
+        
+    </div>
+
+  </body>
+
+  <!-- Scripts -->
+      <script src="/assets/js/skel.min.js"></script>
+      <script src="/assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+      <script src="/assets/js/main.js"></script>
+      <script src="/assets/js/viewportchecker.js"></script>
+      <script src="/assets/js/transition.js"></script>
+      <script src="/assets/js/targetblank.js"></script>
+      <script src="/assets/js/animated.js"></script>
+      <script src="/assets/js/scrollTop.js"></script>
+
+
+</html>

@@ -13,31 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Jonathan Nicholas
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jonathan Nicholas, and I am a former information security consultant, turned pilot in training. If you wish, you can find out more <a href="/about/">About</a> me.<br><br>
+  I have created this website because I find that reflecting on experiences is an important way of learning from them.<br>
+  Furthermore, I want this website to be a resource to learn from where anyone else in similar shoes.<br>
+  <br>Please check out my posts on the Blog.<br> 
+  <br>Happy reading!<br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://joncnicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+author:
+  name: 'Jonathan Nicholas'
+  last_name: 'Nicholas'
+  cv: '/'
+  avatar: '/images/plane.png'
+  github_username:  joncnicholas  
+  email: notificationinboxio@gmail.com
+  logo: '/images/plane.png'
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+permalink: /:categories/:year/:title.html
+
+

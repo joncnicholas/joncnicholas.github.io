@@ -1,0 +1,32 @@
+---
+author: joncn89
+comments: true
+date: 2017-01-07 14:13:08+00:00
+layout: post
+link: https://joncnicholas.wordpress.com/2017/01/07/first-flyout-2017/
+slug: first-flyout-2017
+title: First Flyout - 2017
+wordpress_id: 574
+icon: wordpress
+category: flying
+tags:
+- Hour Building
+---
+
+A welcome but unexpected opportunity to fly cropped up on the 02 Jan 2017 when a fellow organiser of the London Flyout meetup group was visiting a friend in Coventry. By luck, a winter high pressure system sat over the UK making for smooth flying conditions and blue skies albeit frosty conditions. This meant we took two Piper Warriors from North East London (North Weald and Stapleford) to Coventry for the day.
+
+Over the past year, I had a lot of history with Coventry (Specifically West Atlantic) but had never actually flown into Coventry. Other Christmas, Santa (my girlfriend) had bought me a Garmin VIRB and this was a prime opportunity to give it a go. So, without further a due, see video highlights of the trip below.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/q1izhoLxLtg" frameborder="0" allowfullscreen></iframe>
+
+The precise routing in GBTGY (my aircraft) took:
+
+**Outbound**: Stapleford (EGSG) - Princes Risborough - Westcott NDB - DTY VOR - Draycote Water - Coventry Airport (EGBE).
+
+**Return**: Coventry Airport - DTY VOR - Bedford - Luton Airport Overhead - J8 M1 - Stapleford Airfield.
+
+Coventry airport has the Midland Air museum on site and its absolutely fantastic. Your greeted by a hanger full of awesome 40s-80s era aircraft. The outside exhibits however, are the icing on the cake, cold war European, Russian and American aircraft of all uses and sizes. The cherry is the stationed Vulcan where you can sit in the cockpit. An absolute highlight for me, as I had never sat inside one before.
+
+A key memorable moment and learning experience was the transition of Luton Airspace returning from Coventry, thinking it was a bank holiday and it would be quiet. Actually it was the counter opposite. There I am furiously scribbling the controller’s instructions, looking for a landing Gulfstream to transit behind and the sun blaring in my face, all whilst the controller tells me: “GBTGY, you’re going to have to be quicker with your responses”. Does that mean I’ve earned my wings after being told off by ATC for being slow?
+
+[gallery ids="585,584,583,582,581,580,577,578,579" type="circle"]

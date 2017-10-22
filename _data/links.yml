@@ -1,0 +1,15 @@
+# blog page sections
+- name: About
+  href: '/about/'
+
+- name: Flying
+  href: '/flying/'
+
+- name: Outdoors
+  href: '/outdoors/'
+
+- name: Contact
+  href: '/contact/'
+
+- title: "Learn"
+  href: "/learning-resources/"

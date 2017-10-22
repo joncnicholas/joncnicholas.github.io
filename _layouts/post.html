@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post">
+  <header> 
+    <div class="title">
+      <h2>{{ page.title | escape }}</h2>
+      <!--<p><a href="//github.com/joncnicholas/joncnicholas.github.io/{{ page.path }}" class="icon fa-edit">Edit on Github</a></p>-->
+    </div>
+    <div class="meta">
+      <time class="published" datetime="{{ page.date }}">{{ page.date | date: "%d %b %Y %R" }}</time>
+      <a href="{{ site.author.cv }}" class="author"><span class="name">J.{{ site.author.last_name }}</span><img src="{{ site.author.avatar | prepend: site.baseurl }}" alt="JNicholas" /></a>
+    </div>
+  </header>
+  {{ content }}
+</div>
+</article>
+<ul class="actions pagination">
+  {% if page.previous.url %}
+    <li><a href="{{page.previous.url}}" class="button big previous">Previous Page</a></li>
+  {% endif %}
+  {% if page.next.url %}
+    <li><a href="{{page.next.url}}" class="button big next">Next Page</a></li>
+  {% endif %}
+</ul>
+
+
+{%include comments.html %}
+
+
