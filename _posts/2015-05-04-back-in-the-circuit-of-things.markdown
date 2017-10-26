@@ -8,13 +8,14 @@ slug: back-in-the-circuit-of-things
 title: Back in the ‘circuit’ of things
 wordpress_id: 272
 icon: wordpress
+image: crabbed.jpg
 category: flying
 tags:
 - PPL Training
 ---
 
 “The Guide says there is an art to flying", said Ford, "or rather a knack. The knack lies in learning how to throw yourself at the ground and miss.”
-― Douglas Adams, _Life, the Universe and Everything_
+― Douglas Adams
 
 The above quote rings true particularly when I was learning to fly in the RAF and again in civilian street. As such, people may sympathise with what I say next.
 
@@ -22,14 +23,15 @@ Learning to land is probably one of the hardest things a trainee pilot has to go
 
 As a refresh, a normal circuit pattern looks like the below:
 
-[![Picture1](https://joncnicholas.files.wordpress.com/2015/04/picture1.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/04/picture1.jpg)
+{% include image.html
+            img="/post-img/flying/Circuits/1.png"
+		max-width="600px"
+            title="Circuits"
+            caption="Military vs. Civilian aviation circuits" %}
 
 For this article I will focus on the use of civilian circuits. At this stage in training you will be taught the ‘normal’ circuit depicted above. There are 2 other circuit types known as: the bad weather circuit and the glide circuit. The bad weather speaks for itself, and why it is used (also is very similar to a military normal circuit). The glide circuit is never usually used in reality (unless in emergency) but is taught to demonstrate the principles of an approach without power and the practice of landing on an aiming point just by using the wing angle of attack or near as possible aircraft attitude and the usage of flap.
 
 I will not teach you how to conduct the circuit because the book PPL1 – Flying Training gives a very good description and illustrated guidance, but I will share with you some lessons that I have learnt in mastering any circuit. At this stage in training you will be focusing on the following:
-
-
-
 	
   1. Becoming familiar with your airfield
 
@@ -57,7 +59,11 @@ Take off procedures are generally standard amongst most airfield and the differe
 
 The circuit, as seen from the picture is split into 4 legs. The legs that require most concentration are the downwind leg and the final leg. The downwind leg requires a RT call to announce your position and intentions in amongst a set of checks remembered by an acronym – BUMFITCH (Brakes, undercarriage, mixture, Fuel & Flaps, Instruments [Compass & Heading Indicator], Oil Temps and pressures, carburetor heat, hatches & harnesses). This is a case of practice makes perfect. This is also the same for the final leg which is preceded by reconfiguring the aircraft for a descent on the base leg. The best landings are preceded by a well timed reconfiguration and well flown approach. This is especially prudent in gusty conditions. On the final approach, you need to reaffirm your position and intentions with the station service and now pick a spot on the runway to aim for, usually the second arrow before the runway piano keys, and then fly to that point adjusting attitude, power and flap accordingly to hit that spot. This is harder in gusty conditions as it can feel like you are approaching the runway sideways, which is often known as a crabbed approach.
 
-[![crabbed](https://joncnicholas.files.wordpress.com/2015/05/crabbed.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/05/crabbed.jpg)
+{% include image.html
+            img="/post-img/flying/Circuits/ATR_land.jpg"
+		max-width="600px"
+            title="Crabbed"
+            caption="" %}
 
 Once over your point, all power should be removed at which you shouldn’t be more than approx. 20ft off the ground. In calm conditions, all you have to do is point the nose forward and apply gentle back pressure to ensure your back wheels touch the ground and keep applying back pressure until the aircraft can no longer hold the nose wheel in the air. The hard part is when you have gusty conditions as seen in with the dash 8 above. Once over your point, with no or a very small amount of power, apply rudder and opposite aileron and repeat to keep the aircraft centered. The wheel on the side with applied aileron will touch first quickly followed by the opposite side. Whilst you do this, ensure to apply continuous back pressure to ensure a gentle touch of the nose wheel. This along with the judgement of knowing when to pull up to ‘flare’ to glide above the runway and then applying rudder and aileron is in my opinion the hardest lesson to learn for a novice pilot.
 

@@ -15,7 +15,12 @@ tags:
 
 On the 15/07/2015, 2 days short of a month after passing my PPL Final handling test, I received my license in hand.
 
-[![IMG_1085](https://joncnicholas.files.wordpress.com/2015/07/img_1085.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/07/img_1085.jpg)One year and four months of training, 9 ground exams and 2 practical exams later has landed me this little blue book that allows me to fly Single Engine Piston land aircraft. However, Let’s go back four weeks.
+One year and four months of training, 9 ground exams and 2 practical exams later has landed me this little blue book that allows me to fly Single Engine Piston land aircraft. However, Let’s go back four weeks.
+{% include image.html
+            img="/post-img/flying/Come_fly_with/1.jpg"
+		max-width="600px"
+            title="Circuits"
+            caption="UK CAA PPL License" %}
 
 What did I decide was a good idea one week after passing; convert onto a different aircraft (PA-28 Warrior). Well recommended and keeps your mind focused on using your license but it is also worth considering the possible 4-8 week gap of license issue. I was lucky mine arrived in less than 4 weeks which meant I haven’t flown for 3 weeks which is a comparatively small amount of time. However, The CAA is known for being a lot worse on lead times.
 

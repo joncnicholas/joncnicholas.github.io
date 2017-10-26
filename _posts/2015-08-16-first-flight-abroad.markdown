@@ -8,6 +8,7 @@ slug: first-flight-abroad
 title: First Flight abroad
 wordpress_id: 318
 icon: wordpress
+image: LFOP_Apron.jpg
 category: flying
 tags:
 - Hour Building
@@ -30,43 +31,26 @@ All in all, the most challenging 150nm ive ever done, and a fantastic learnig ex
 Some snaps on the way home:
 
 
-[![IMG_1114](https://joncnicholas.files.wordpress.com/2015/08/img_1114.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/08/img_1114.jpg)G-PJCC was my aircraft (Far Right)
+{% include image.html
+            img="/post-img/flying/first_flight_abroad/img_1114_1.jpg"
+		max-width="600px"
+            title="Rouen1"
+            caption="G-PJCC was my aircraft (Far Right)" %}
 
+{% include image.html
+            img="/post-img/flying/first_flight_abroad/img_1119_2.jpg"
+		max-width="600px"
+            title="Rouen2"
+            caption="Leaving LFOP with Rouen city on our left" %}
 
+{% include image.html
+            img="/post-img/flying/first_flight_abroad/img_1131_3.jpg"
+		max-width="600px"
+            title="Rouen3"
+            caption="Leaving the French Coast behind by Abbeville VOR" %}
 
-
-[![IMG_1119](https://joncnicholas.files.wordpress.com/2015/08/img_1119.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/08/img_1119.jpg)
-
-
-
-
-Leaving LFOP with Rouen city on our left
-
-
-
-
-[![IMG_1131](https://joncnicholas.files.wordpress.com/2015/08/img_1131.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/08/img_1131.jpg)
-
-
-
-
-Leaving the French Coast behind by Dauville VOR
-
-
-
-
-[![IMG_1133](https://joncnicholas.files.wordpress.com/2015/08/img_1133-e1439760950489.jpg?w=225)](https://joncnicholas.files.wordpress.com/2015/08/img_1133.jpg)
-
-
-
-
-
-
-
-UK Coast by Lydd (EGMD)
-
-
-
-
-
-
+{% include image.html
+            img="/post-img/flying/first_flight_abroad/img_1133_4.jpg"
+		max-width="600px"
+            title="Rouen4"
+            caption="UK Coast by Lydd (EGMD)" %}

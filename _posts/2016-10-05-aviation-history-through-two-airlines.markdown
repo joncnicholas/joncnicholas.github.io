@@ -22,16 +22,17 @@ Most, if not all, would have heard of Aer Lingus but West Atlantic possibly not.
 
 I couldn't embed the timeline in WordPress. However, I have published them so can be accessed by clicking the airline name (They will look something like the picture below):
 
-
-
 	
   1. [Aer Lingus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15Ica5QalRG9PPpkpaRoiczpf33EO2MxelhzihaFIios&font=Default&lang=en&initial_zoom=2&height=650)
 
 	
   2. [West Atlantic](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1fXTu67jvOb7Gfmy-kDmZLyJGFf7GmLZL4_6aLyl3FhE&font=Default&lang=en&initial_zoom=2&height=650)
 
-
-![alvswa](https://joncnicholas.files.wordpress.com/2016/10/alvswa.png)
+{% include image.html
+            img="/post-img/flying/history_airlines/alvswa.png"
+		max-width="1000px"
+            title="Aer Lingus vs. West Atlantic History"
+            caption="Timelines for West Atlantic (left) and Aer Lingus (right)" %}
 
 I made the timelines in Timeline js which can be accessed here: https://timeline.knightlab.com/
 

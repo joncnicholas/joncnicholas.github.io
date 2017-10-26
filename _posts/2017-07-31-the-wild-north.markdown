@@ -7,7 +7,7 @@ slug: the-wild-north
 title: The Wild North
 icon: wordpress
 keywords: Aviation, General Aviation, Hobbies, Pilot, PPL
-image: cover.jpg
+image: Humber.jpg
 category: flying
 tags:
 - Hour Building

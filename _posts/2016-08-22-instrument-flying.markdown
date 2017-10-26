@@ -8,6 +8,7 @@ slug: instrument-flying
 title: Instrument Flying
 wordpress_id: 472
 icon: wordpress
+image: 6_pack.jpg
 category: flying
 tags:
 - PPL Training
@@ -21,7 +22,17 @@ After completing the first couple of hours on basic instrument flying going well
 
 When my instructor attempted to explain NDB material on the ground we finished the brief in an hour. Three hours later we finish after each one of us becoming confused using practical examples to attempt to solidify understanding! Therefore, I’m not intending on trying to verbally describe it here. Instead, I thought I’d try and draw it in 2 pictures (tracking to and tracking away from) and pray and hope I haven’t confused myself in drawing them up!
 
-![NDB Tracking to](https://joncnicholas.files.wordpress.com/2016/08/ndb-tracking-to.jpg)![NDB Tracking from](https://joncnicholas.files.wordpress.com/2016/08/ndb-tracking-from.jpg)
+{% include image.html
+            img="/post-img/flying/Instrument_flying/ndb-tracking-from.jpg"
+		max-width="600px"
+            title="NDB Tracking to"
+            caption="NDB Tracking to the beacon" %}
+
+{% include image.html
+            img="/post-img/flying/Instrument_flying/ndb-tracking-from.jpg"
+		max-width="600px"
+            title="NDB Tracking from"
+            caption="NDB Tracking from the beacon" %}
 
 Next is applying these principles to a full NDB hold with wind (diagrams above take no wind into account), which is my next lesson in the air in a new aircraft to me - the PA28R-200 or Arrow. So on top of my brain melting I’m handling a lovely 200hp 120kt aircraft …. How hard can it be?
 
