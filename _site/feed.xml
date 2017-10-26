@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-26T19:08:41+01:00</updated><id>http://localhost:4000/</id><title type="html">Jonathan Nicholas</title><subtitle>My name is Jonathan Nicholas, and I am a former information security consultant, turned pilot in training. If you wish, you can find out more &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt; me.&lt;br&gt;&lt;br&gt; I have created this website because I find that reflecting on experiences is an important way of learning from them.&lt;br&gt; Furthermore, I want this website to be a resource to learn from where anyone else in similar shoes.&lt;br&gt; &lt;br&gt;Please check out my posts on the Blog.&lt;br&gt;  &lt;br&gt;Happy reading!&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-26T23:56:27+01:00</updated><id>http://localhost:4000/</id><title type="html">Jonathan Nicholas</title><subtitle>My name is Jonathan Nicholas, and I am a former information security consultant, turned pilot in training. If you wish, you can find out more &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt; me.&lt;br&gt;&lt;br&gt; I embarked upon a career change that saw a decade long passion become a pursuit of a career. Over the past 5 years, I have been saving to follow my dream of becoming a commercial pilot and I am using this blog as a record embarking on the biggest challenge I have undertaken.&lt;br&gt;&lt;br&gt; I have created this website because I find that reflecting on experiences is an important way of learning from them.&lt;br&gt; Furthermore, I want this website to be a resource to learn from where anyone else in similar shoes.&lt;br&gt; &lt;br&gt;Please check out my posts and write comments.&lt;br&gt;  &lt;br&gt;Happy reading!&lt;br&gt;
 </subtitle><author><name>Jonathan Nicholas</name><email>notificationinboxio@gmail.com</email></author><entry><title type="html">The Wild North</title><link href="http://localhost:4000/flying/2017/the-wild-north.html" rel="alternate" type="text/html" title="The Wild North" /><published>2017-08-01T00:11:04+01:00</published><updated>2017-08-01T00:11:04+01:00</updated><id>http://localhost:4000/flying/2017/the-wild-north</id><content type="html" xml:base="http://localhost:4000/flying/2017/the-wild-north.html">&lt;p&gt;I had planned a Commercial Pilots License (CPL) qualifier via Humberside and Sherburn returning to Stapleford. However, weather on the day at the end of May 2017, proved unviable for Sherburn so instead I planned Humberside and Fenland. This trip coincidently had also been the furthest North I have travelled in command of an aircraft.&lt;/p&gt;
 
 &lt;p&gt;I filmed the route out to Humberside and then the camera battery died just before I landed at Fenland. So instead of ending on a final approach to Fenland, I’ve composed a 2000%-time lapse of my 1hr 35min trip to Humberside totalling 4.5 minutes.&lt;/p&gt;
@@ -15,7 +15,37 @@
 
 &lt;p&gt;Happy watching!&lt;/p&gt;
 
-&lt;p&gt;[gallery ids=”653,654,655” type=”rectangular”]&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">I had planned a Commercial Pilots License (CPL) qualifier via Humberside and Sherburn returning to Stapleford. However, weather on the day at the end of May 2017, proved unviable for Sherburn so instead I planned Humberside and Fenland. This trip coincidently had also been the furthest North I have travelled in command of an aircraft.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/Humber.jpg" /></entry><entry><title type="html">Compton via the South Coast</title><link href="http://localhost:4000/flying/2017/compton-via-the-south-coast.html" rel="alternate" type="text/html" title="Compton via the South Coast" /><published>2017-05-03T21:14:54+01:00</published><updated>2017-05-03T21:14:54+01:00</updated><id>http://localhost:4000/flying/2017/compton-via-the-south-coast</id><content type="html" xml:base="http://localhost:4000/flying/2017/compton-via-the-south-coast.html">&lt;p&gt;A clear weekend in the UK is a rare event, the weekend in the middle of April 2017 saw high cloud bases (circa 4500ft), relative high pressure and great visibility. On Saturday, I flew to Compton Abbas and on Sunday I flew to Leicester.&lt;/p&gt;
+&lt;p&gt;A few snaps when on the ground at humberside:&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Wild_north/Humber.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Humber Thunderbirds&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Thunderbird 3&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Wild_north/20170528_124228.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Humber Apron&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Humberside Apron&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Wild_north/20170528_124350.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Humber Apron&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;A few neat aircraft in for maintenance/storage&lt;/p&gt;
+    
+&lt;/div&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">I had planned a Commercial Pilots License (CPL) qualifier via Humberside and Sherburn returning to Stapleford. However, weather on the day at the end of May 2017, proved unviable for Sherburn so instead I planned Humberside and Fenland. This trip coincidently had also been the furthest North I have travelled in command of an aircraft.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/Humber.jpg" /></entry><entry><title type="html">Compton via the South Coast</title><link href="http://localhost:4000/flying/2017/compton-via-the-south-coast.html" rel="alternate" type="text/html" title="Compton via the South Coast" /><published>2017-05-03T21:14:54+01:00</published><updated>2017-05-03T21:14:54+01:00</updated><id>http://localhost:4000/flying/2017/compton-via-the-south-coast</id><content type="html" xml:base="http://localhost:4000/flying/2017/compton-via-the-south-coast.html">&lt;p&gt;A clear weekend in the UK is a rare event, the weekend in the middle of April 2017 saw high cloud bases (circa 4500ft), relative high pressure and great visibility. On Saturday, I flew to Compton Abbas and on Sunday I flew to Leicester.&lt;/p&gt;
 
 &lt;p&gt;I filmed the route out to Compton (however, a rookie error surfaced and the camera died on the return):&lt;/p&gt;
 
@@ -27,7 +57,37 @@
 
 &lt;p&gt;Happy watching!&lt;/p&gt;
 
-&lt;p&gt;[gallery ids=”625,623,619,618,617” type=”circle”]&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">A clear weekend in the UK is a rare event, the weekend in the middle of April 2017 saw high cloud bases (circa 4500ft), relative high pressure and great visibility. On Saturday, I flew to Compton Abbas and on Sunday I flew to Leicester.</summary></entry><entry><title type="html">First Flyout - 2017</title><link href="http://localhost:4000/flying/2017/first-flyout-2017.html" rel="alternate" type="text/html" title="First Flyout - 2017" /><published>2017-01-07T14:13:08+00:00</published><updated>2017-01-07T14:13:08+00:00</updated><id>http://localhost:4000/flying/2017/first-flyout-2017</id><content type="html" xml:base="http://localhost:4000/flying/2017/first-flyout-2017.html">&lt;p&gt;A welcome but unexpected opportunity to fly cropped up on the 02 Jan 2017 when a fellow organiser of the London Flyout meetup group was visiting a friend in Coventry. By luck, a winter high pressure system sat over the UK making for smooth flying conditions and blue skies albeit frosty conditions. This meant we took two Piper Warriors from North East London (North Weald and Stapleford) to Coventry for the day.&lt;/p&gt;
+&lt;p&gt;A few snaps when on the ground at Compton:&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Compton_via_south/20170414_134626.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Blue Tuger Moth&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lovely Blue Tiger Moth&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Compton_via_south/20170414_134845.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Harvard&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;A flying T6 Harvard!&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Compton_via_south/20170414_135136.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;RAF Bulldog&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;An old RAF Bulldog&lt;/p&gt;
+    
+&lt;/div&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">A clear weekend in the UK is a rare event, the weekend in the middle of April 2017 saw high cloud bases (circa 4500ft), relative high pressure and great visibility. On Saturday, I flew to Compton Abbas and on Sunday I flew to Leicester.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/Harvard.jpg" /></entry><entry><title type="html">First Flyout - 2017</title><link href="http://localhost:4000/flying/2017/first-flyout-2017.html" rel="alternate" type="text/html" title="First Flyout - 2017" /><published>2017-01-07T14:13:08+00:00</published><updated>2017-01-07T14:13:08+00:00</updated><id>http://localhost:4000/flying/2017/first-flyout-2017</id><content type="html" xml:base="http://localhost:4000/flying/2017/first-flyout-2017.html">&lt;p&gt;A welcome but unexpected opportunity to fly cropped up on the 02 Jan 2017 when a fellow organiser of the London Flyout meetup group was visiting a friend in Coventry. By luck, a winter high pressure system sat over the UK making for smooth flying conditions and blue skies albeit frosty conditions. This meant we took two Piper Warriors from North East London (North Weald and Stapleford) to Coventry for the day.&lt;/p&gt;
 
 &lt;p&gt;Over the past year, I had a lot of history with Coventry (Specifically West Atlantic) but had never actually flown into Coventry. Other Christmas, Santa (my girlfriend) had bought me a Garmin VIRB and this was a prime opportunity to give it a go. So, without further a due, see video highlights of the trip below.&lt;/p&gt;
 
@@ -41,9 +101,69 @@
 
 &lt;p&gt;Coventry airport has the Midland Air museum on site and its absolutely fantastic. Your greeted by a hanger full of awesome 40s-80s era aircraft. The outside exhibits however, are the icing on the cake, cold war European, Russian and American aircraft of all uses and sizes. The cherry is the stationed Vulcan where you can sit in the cockpit. An absolute highlight for me, as I had never sat inside one before.&lt;/p&gt;
 
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/1st_2017/20170102_132722.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Avro Vulcan&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Avro Vulcan&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/1st_2017/20170102_133658.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Inside the Vulcan&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Avro Vulcan Cockpit&lt;/p&gt;
+    
+&lt;/div&gt;
+
 &lt;p&gt;A key memorable moment and learning experience was the transition of Luton Airspace returning from Coventry, thinking it was a bank holiday and it would be quiet. Actually it was the counter opposite. There I am furiously scribbling the controller’s instructions, looking for a landing Gulfstream to transit behind and the sun blaring in my face, all whilst the controller tells me: “GBTGY, you’re going to have to be quicker with your responses”. Does that mean I’ve earned my wings after being told off by ATC for being slow?&lt;/p&gt;
 
-&lt;p&gt;[gallery ids=”585,584,583,582,581,580,577,578,579” type=”circle”]&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">A welcome but unexpected opportunity to fly cropped up on the 02 Jan 2017 when a fellow organiser of the London Flyout meetup group was visiting a friend in Coventry. By luck, a winter high pressure system sat over the UK making for smooth flying conditions and blue skies albeit frosty conditions. This meant we took two Piper Warriors from North East London (North Weald and Stapleford) to Coventry for the day.</summary></entry><entry><title type="html">An Impromptu France trip to Wave Out 2016</title><link href="http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016.html" rel="alternate" type="text/html" title="An Impromptu France trip to Wave Out 2016" /><published>2016-12-08T17:19:21+00:00</published><updated>2016-12-08T17:19:21+00:00</updated><id>http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016</id><content type="html" xml:base="http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016.html">&lt;p&gt;The last likely trip for 2016 was an impromptu one to La Touquet in France on the 04 December. Normally conditions from November to February are pretty poor for VFR pilots. However, a long lasting high pressure system brought on beautiful blue skies in the last and first week of November and December albeit it very cold. Sunday proved to be no exception and was probably one of the best weather days of any that I flew in 2016.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/1st_2017/img-20170104-wa0002.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;EasyJet Hangar at Luton&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;EasyJet Hangar at Luton&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;A few final snaps at or inflight to Coventry:&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/1st_2017/20170102_132342.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Midlands Aviation Museum&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Midlands Aviation Museum&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/1st_2017/img-20170102-wa0003.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Luton Final Approach&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Luton Final Approach&lt;/p&gt;
+    
+&lt;/div&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">A welcome but unexpected opportunity to fly cropped up on the 02 Jan 2017 when a fellow organiser of the London Flyout meetup group was visiting a friend in Coventry. By luck, a winter high pressure system sat over the UK making for smooth flying conditions and blue skies albeit frosty conditions. This meant we took two Piper Warriors from North East London (North Weald and Stapleford) to Coventry for the day.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/easy.jpg" /></entry><entry><title type="html">An Impromptu France trip to Wave Out 2016</title><link href="http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016.html" rel="alternate" type="text/html" title="An Impromptu France trip to Wave Out 2016" /><published>2016-12-08T17:19:21+00:00</published><updated>2016-12-08T17:19:21+00:00</updated><id>http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016</id><content type="html" xml:base="http://localhost:4000/flying/2016/an-impromptu-france-trip-to-wave-out-2016.html">&lt;p&gt;The last likely trip for 2016 was an impromptu one to La Touquet in France on the 04 December. Normally conditions from November to February are pretty poor for VFR pilots. However, a long lasting high pressure system brought on beautiful blue skies in the last and first week of November and December albeit it very cold. Sunday proved to be no exception and was probably one of the best weather days of any that I flew in 2016.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Impromptu_France/20161204_144946_3.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Dover&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Coasting out at Dover routing Cap Gris Nez&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;We flew south east from Stapleford to Dover and crossed the channel to Cap Griz Nez at 5000ft before starting a cruise descent at Boulogne to La Touquet. The navigation was a joy as the atmosphere was exceptionally stable and therefore, you could fly hands off once in trim because it was so smooth. Given such a beautiful day it was busy, there was lots of GA traffic the entire way and we could hear London Info talking to GA as far as Carlisle.&lt;/p&gt;
 
@@ -55,9 +175,39 @@
 
 &lt;p&gt;A 25minute walk into town, a stroll by the beach, a crepe and a bimble around Le Touquet town was picturesque albeit very quiet. Accompanied by much the same conditions on the return with the bonus of a setting sun made for a very memorable end of flying calendar 2016.&lt;/p&gt;
 
-&lt;p&gt;[gallery ids=”565,564,563,562,561” type=”circle”]&lt;/p&gt;
+&lt;p&gt;A few snaps when on the ground from Le Touquet:&lt;/p&gt;
 
-&lt;p&gt;This final trip saw me reach 120hours, with 2016 giving me more memories of tipping my 100 hours on a trip to the Isle of Wight; a conversion onto a Piper Arrow; the start of my IMC and night rating and some success with airline cadetships. Twenty-six memorable hours of flying later I have the desire to do much more, here is to an even more memorable 2017.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">The last likely trip for 2016 was an impromptu one to La Touquet in France on the 04 December. Normally conditions from November to February are pretty poor for VFR pilots. However, a long lasting high pressure system brought on beautiful blue skies in the last and first week of November and December albeit it very cold. Sunday proved to be no exception and was probably one of the best weather days of any that I flew in 2016.</summary></entry><entry><title type="html">Aviation History Through Two Airlines</title><link href="http://localhost:4000/flying/2016/aviation-history-through-two-airlines.html" rel="alternate" type="text/html" title="Aviation History Through Two Airlines" /><published>2016-10-05T17:48:08+01:00</published><updated>2016-10-05T17:48:08+01:00</updated><id>http://localhost:4000/flying/2016/aviation-history-through-two-airlines</id><content type="html" xml:base="http://localhost:4000/flying/2016/aviation-history-through-two-airlines.html">&lt;p&gt;The latter half of 2016 saw me see some success with aviation cadetships in two airlines that I follow and I hold in high regard. Both airlines have long standing cadet programmes that intake either PPL standard pilots or candidates with no flying experience. During this time, I did a lot of background preparation and would like to see some of it put to good use so have decided to publicise it here.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Impromptu_France/20161204_121555_5.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Le Touquet Airport&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Le Touquet Airport&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Impromptu_France/20161204_131154_4.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Le Touquet Town Centre&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Le Touquet Town Centre&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Impromptu_France/20161204_140712_2.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;GSACI&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;GSACI on the Apron at Le Touquet&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;This final trip saw me reach 120hours, with 2016 giving me more memories of tipping my 100 hours on a trip to the Isle of Wight; a conversion onto a Piper Arrow; the start of my IMC and night rating and some success with airline cadetships. Twenty-six memorable hours of flying later I have the desire to do much more, here is to an even more memorable 2017.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">The last likely trip for 2016 was an impromptu one to La Touquet in France on the 04 December. Normally conditions from November to February are pretty poor for VFR pilots. However, a long lasting high pressure system brought on beautiful blue skies in the last and first week of November and December albeit it very cold. Sunday proved to be no exception and was probably one of the best weather days of any that I flew in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/LeTouquet.jpg" /></entry><entry><title type="html">Aviation History Through Two Airlines</title><link href="http://localhost:4000/flying/2016/aviation-history-through-two-airlines.html" rel="alternate" type="text/html" title="Aviation History Through Two Airlines" /><published>2016-10-05T17:48:08+01:00</published><updated>2016-10-05T17:48:08+01:00</updated><id>http://localhost:4000/flying/2016/aviation-history-through-two-airlines</id><content type="html" xml:base="http://localhost:4000/flying/2016/aviation-history-through-two-airlines.html">&lt;p&gt;The latter half of 2016 saw me see some success with aviation cadetships in two airlines that I follow and I hold in high regard. Both airlines have long standing cadet programmes that intake either PPL standard pilots or candidates with no flying experience. During this time, I did a lot of background preparation and would like to see some of it put to good use so have decided to publicise it here.&lt;/p&gt;
 
 &lt;p&gt;As you can imagine these cadetships are highly competitive and selective with single digit intakes where thousands tend to apply. With some luck and hard graft I managed to reach the final stages for both the airlines but unfortunately no further. Whilst this is disappointing, I feel as though I’ve done something right to get to both these stages in one year for two airlines. The two airlines that I am talking about are West Atlantic and Aer Lingus.&lt;/p&gt;
 
@@ -176,15 +326,23 @@
     
 &lt;/div&gt;
 
-&lt;p&gt;Overall, a brilliant day, great fly out and learning experience all round. A great way to tip me over the 100-hour mark.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">Since joining the meetup group “Flyouts from London” in winter last year there have been a select amount of days where the weather has been favourable for a large number of general aviation aircraft to fly to one place. The first was Duxford on a cold clear winter day in February 2016 and the other was yesterday (02/04/2016) for a trip to the Isle of Wight. It was the first day of the year the temperature hit 15 degrees C and there were few clouds in the sky.</summary></entry><entry><title type="html">A Flying Invention</title><link href="http://localhost:4000/flying/2016/a-flying-invention.html" rel="alternate" type="text/html" title="A Flying Invention" /><published>2016-01-06T13:00:34+00:00</published><updated>2016-01-06T13:00:34+00:00</updated><id>http://localhost:4000/flying/2016/a-flying-invention</id><content type="html" xml:base="http://localhost:4000/flying/2016/a-flying-invention.html">&lt;p&gt;After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of time is navigation planning in the days before and the morning before the trip. As such, my day job has led me to produce some complex numerical models primarily in Excel and thought I’d try and produce a tool that will automate some of the navigation planning given a set of inputs. All in an effort to let me wake up later on the day!&lt;/p&gt;
+&lt;p&gt;Overall, a brilliant day, great fly out and learning experience all round. A great way to tip me over the 100-hour mark.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">Since joining the meetup group “Flyouts from London” in winter last year there have been a select amount of days where the weather has been favourable for a large number of general aviation aircraft to fly to one place. The first was Duxford on a cold clear winter day in February 2016 and the other was yesterday (02/04/2016) for a trip to the Isle of Wight. It was the first day of the year the temperature hit 15 degrees C and there were few clouds in the sky.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/100_cover.jpg" /></entry><entry><title type="html">A Flying Invention</title><link href="http://localhost:4000/flying/2016/a-flying-invention.html" rel="alternate" type="text/html" title="A Flying Invention" /><published>2016-01-06T13:00:34+00:00</published><updated>2016-01-06T13:00:34+00:00</updated><id>http://localhost:4000/flying/2016/a-flying-invention</id><content type="html" xml:base="http://localhost:4000/flying/2016/a-flying-invention.html">&lt;p&gt;After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of time is navigation planning in the days before and the morning before the trip. As such, my day job has led me to produce some complex numerical models primarily in Excel and thought I’d try and produce a tool that will automate some of the navigation planning given a set of inputs. All in an effort to let me wake up later on the day!&lt;/p&gt;
 
 &lt;p&gt;Navigation planning is exceptionally important and the proper time should be spent on ensuring you have all aspects covered because being unprepared can lead to bad decisions, ultimately making a fun trip, hazardous.&lt;/p&gt;
 
 &lt;p&gt;I have created an Excel “Pre-Flight Calculator” (attached below) which effectively takes a set of variables and calculates: weight and balance (including fuel calculations), centre of gravity (CoG -including aircraft envelopes), and all necessary performance calculations. You cannot automate everything in navigation planning, but after a number of flights using various iterations of this calculator, I have been able to save circa 30-40 minutes on the morning If all pre-flight planning was complete prior.  The model does require input on a number of elements like landing &amp;amp; take-off ground roll and assessment of conditions to establish what performance conditions are pertinent on the day. However, once these are known the results process is automated and near instant.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2016/01/pfpm_front.png&quot; alt=&quot;PFPM_front&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/flying/Performance_tools/pfpm_front.png&quot; style=&quot;max-width: 1000px;&quot; alt=&quot;Performance_Planning&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Performance Calculator front page&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2017/07/pre-flight-calculator-v1-9-master.xlsx&quot;&gt;Pre Flight Calculator v1.9 - Master&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/post-img/flying/Performance_tools/Pre Flight Calculator v1.9 - Master.xlsx&quot;&gt;&lt;strong&gt;Pre Flight Calculator v1.9 - Master&lt;/strong&gt;.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I have created the model based upon Stapleford Flight Centre aircraft and out of the box it is compatible with the following general aviation aircraft types: Cessna 152 &amp;amp;172, Piper Warrior (PA28) and Arrow (PA28R). However, I have designed this model to be easily adaptable to any aircraft type with foundational excel knowledge given that the user knows the correct information to input i.e. aircraft schedule information, fuel limitations and aircraft envelope details. These can all be seen in ‘Aircraft Schedule info’ tab. What I have mentioned here is aimed at providing accurate weight, fuel and CoG representation. The last part of the model provides automated representation of the performance calculations. This section takes user input variables on airfield and performance conditions and uses model information in the ‘Airfields and Performance’ tab to accurately display required take-off and landing distances.&lt;/p&gt;
 
@@ -198,19 +356,30 @@
     &lt;p&gt;If you want to use for general aviation purposes, then you can use this model out of the box with foundational excel knowledge. However, if you want to use it for new aircraft a basic understanding of excel formulae and logic is required to amend correctly.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The model only supports aircraft using AVGAS 100LL fuel with a Specific Gravity of 0.72. It is not compatible with AVTUR because of my current uses. However, the fuel calculations are actually derived using weights and conversions which can be seen in Appendix A tab (AVGAS based). &lt;em&gt;Functionality added in &lt;strong&gt;v1.7&lt;/strong&gt; - See comment #2&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;The model only supports aircraft using AVGAS 100LL fuel with a Specific Gravity of 0.72. It is not compatible with AVTUR because of my current uses. However, the fuel calculations are actually derived using weights and conversions which can be seen in Appendix A tab (AVGAS based). &lt;span style=&quot;color: red&quot;&gt;&lt;em&gt;Functionality added in &lt;strong&gt;v1.7&lt;/strong&gt; - See comment #2&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;If you want to use the model with new aircraft types ensure you change the third and fourth yellow tabs (described above) and ensure you sanity check the variables sheet as larger aircraft will require more boxes for more passenger weights and therefore, a small change to the weight and balance tab to reflect the aircraft.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Units in this model are consistent throughout: Pounds [lbs] for weight and Litres [L] for volume. However, conversions to USG and Kilograms [kg] are present in relevant places. *As of &lt;strong&gt;v1.9&lt;/strong&gt;, the introduction of meteorological units (hPa and degrees Centigrade) to ascertain pressure and density altitude in feet have been added - see comment #4.&lt;/p&gt;
+    &lt;p&gt;Units in this model are consistent throughout: Pounds [lbs] for weight and Litres [L] for volume. However, conversions to USG and Kilograms [kg] are present in relevant places. &lt;span style=&quot;color: red&quot;&gt;*As of &lt;strong&gt;v1.9&lt;/strong&gt;, the introduction of meteorological units (hPa and degrees Centigrade) to ascertain pressure and density altitude in feet have been added - see comment #4.&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;I’d relish feedback on the attached model so please use it, adjust it and disperse it to your heart’s content. Likewise, please feel free to comment.&lt;/p&gt;
 
-&lt;p&gt;I enjoyed producing this tool as it has given me a better understanding of the aircraft I fly, allowed me to become more efficient in my navigation planning and ultimately I hope it leads me to become a safer pilot.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Flight and Interview Resources" /><summary type="html">After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of time is navigation planning in the days before and the morning before the trip. As such, my day job has led me to produce some complex numerical models primarily in Excel and thought I’d try and produce a tool that will automate some of the navigation planning given a set of inputs. All in an effort to let me wake up later on the day!</summary></entry><entry><title type="html">My First Scottish Munro</title><link href="http://localhost:4000/outdoors/2015/my-first-scottish-munro.html" rel="alternate" type="text/html" title="My First Scottish Munro" /><published>2015-10-27T20:59:54+00:00</published><updated>2015-10-27T20:59:54+00:00</updated><id>http://localhost:4000/outdoors/2015/my-first-scottish-munro</id><content type="html" xml:base="http://localhost:4000/outdoors/2015/my-first-scottish-munro.html">&lt;p&gt;I’d been sowing the seeds with my mountaineering compardre to go and explore a different area of prime British mountains and Scotland was my number one choice. The predominant thing stopping us was finances as 4 days in Scotland were costing us as much as a European package holiday! However, we caught a break when a mutual friend owned a cottage in the Glencoe region of Scotland that he would let us use as long as we promised to take him along.&lt;/p&gt;
+&lt;p&gt;I enjoyed producing this tool as it has given me a better understanding of the aircraft I fly, allowed me to become more efficient in my navigation planning and ultimately I hope it leads me to become a safer pilot.&lt;/p&gt;
+
+&lt;h1&gt; Change Control &lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Minor update to the calculator (v1.5 –&amp;gt;1.6 – January 08, 2016):&lt;/strong&gt;&lt;br /&gt;
+	Implemented automated update of distinct types in input Tabs 3 &amp;amp; 4 with array formulas – This allows aircraft types and new airfields to be automatically generated (limiting manual changes by user).&lt;br /&gt;
+&lt;strong&gt;2. Minor update to the calculator (v1.6 –&amp;gt;1.7 – February 05, 2016):&lt;/strong&gt;&lt;br /&gt;
+	Implemented fuel variables (AVGAS &amp;amp; AVTUR) with Specific Gravity 0.72 and 0.8 respectively. Appendix 2 added for conversion table.&lt;br /&gt;
+&lt;strong&gt;3. Minor update to the calculator (v1.7 -&amp;gt; 1.8 – July 05, 2016):&lt;/strong&gt;&lt;br /&gt;
+	Implemented the Piper Arrow II &amp;amp; III (PA28-200 &amp;amp; PA28-201) including envelopes and tested for any errors which came up clean.&lt;br /&gt;
+&lt;strong&gt;4. Functionality update to the calculator (v1.8 -&amp;gt; 1.9 – July 07, 2017):&lt;/strong&gt;&lt;br /&gt;
+	Implementation of meteorological units (hPa and degrees Centigrade) and airfield elevation (ft) to ascertain pressure and density altitude in feet. Density altitude formula taken from &lt;a href=&quot;https://www.aopa.org/training-and-safety/active-pilots/safety-and-technique/weather/density-altitude&quot;&gt;&lt;strong&gt;AOPA&lt;/strong&gt;.&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Flight and Interview Resources" /><summary type="html">After a number of navigation trips since passing my PPL, I started looking for efficiency savings in time when it came to flying. I found the biggest use of time is navigation planning in the days before and the morning before the trip. As such, my day job has led me to produce some complex numerical models primarily in Excel and thought I’d try and produce a tool that will automate some of the navigation planning given a set of inputs. All in an effort to let me wake up later on the day!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/envelope.jpg" /></entry><entry><title type="html">My First Scottish Munro</title><link href="http://localhost:4000/outdoors/2015/my-first-scottish-munro.html" rel="alternate" type="text/html" title="My First Scottish Munro" /><published>2015-10-27T20:59:54+00:00</published><updated>2015-10-27T20:59:54+00:00</updated><id>http://localhost:4000/outdoors/2015/my-first-scottish-munro</id><content type="html" xml:base="http://localhost:4000/outdoors/2015/my-first-scottish-munro.html">&lt;p&gt;I’d been sowing the seeds with my mountaineering compardre to go and explore a different area of prime British mountains and Scotland was my number one choice. The predominant thing stopping us was finances as 4 days in Scotland were costing us as much as a European package holiday! However, we caught a break when a mutual friend owned a cottage in the Glencoe region of Scotland that he would let us use as long as we promised to take him along.&lt;/p&gt;
 
 &lt;p&gt;The weekend trip (23-25/10) was to get us out in unfamiliar territory to practice some ML (Mountain Leader) skills. The weather was predicted to be awful, but luckily they were no were near as bad as predicted. I had arrived on the Thursday evening (22/10) and the cottage was in a fantastic location just off the shores of Loch Leven adjoining Loch Linnhe despite the weary 7 hour journey north from London.&lt;/p&gt;
 
@@ -220,19 +389,79 @@
 
 &lt;p&gt;The route began with a steep and gruelling slog up the pathless lower slops overhead Ballachulish with The Pap in the background.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1475.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1475.jpg?w=300&quot; alt=&quot;IMG_1475&quot; /&gt;&lt;/a&gt;The first few hours of the day where the hardest because we climbed over 700 metres in less than a single kilometre but this meant we did start to get some pretty spectacular views with Ballachulish Bridge coming into view and the Glencoe Valley later on.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1475_1.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;lower slops overhead Ballachulish with The Pap in the background&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Overhead Ballachulish with The Pap in the background&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1489.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1489.jpg?w=300&quot; alt=&quot;IMG_1489&quot; /&gt;&lt;/a&gt;After climbing up the lower slopes we hit a ridge which uncovered the path which we picked up heading for the ridge line. Once onto the ridge, it is a fine walk on a good path, which soon shows our summit just touching the cloud line with the second higher summit Sgorr Dhearg covered in cloud behind it.&lt;/p&gt;
+&lt;p&gt;The first few hours of the day where the hardest because we climbed over 700 metres in less than a single kilometre but this meant we did start to get some pretty spectacular views with Ballachulish Bridge coming into view and the Glencoe Valley later on.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1488.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1488.jpg?w=300&quot; alt=&quot;IMG_1488&quot; /&gt;&lt;/a&gt;The weather forecast had warned of gale force winds (up to 45mph) above 800 metres and although we had planned to do 2 Munros, we also planned to retreat if the winds on the summits where too treacherous. Higher up on the ridge line we had already been experiencing 30-35mph winds but we pushed on.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1489_2.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Glencoe Valley&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Glencoe Valley&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1496.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1496.jpg?w=300&quot; alt=&quot;IMG_1496&quot; /&gt;&lt;/a&gt;When we hit the path up to the summit we entered cloud and visibility plummeted as well as winds increasing up to what felt like 40-50mph. The summit of Sgorr Bhan is quite exposed and the three of us had to crouch and scamper over the rocky ridge to the Munro summit cairn which we hid behind for a bit of shelter and recuperation.&lt;/p&gt;
+&lt;p&gt;After climbing up the lower slopes we hit a ridge which uncovered the path which we picked up heading for the ridge line. Once onto the ridge, it is a fine walk on a good path, which soon shows our summit just touching the cloud line with the second higher summit Sgorr Dhearg covered in cloud behind it.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1501.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1501-e1445976449760.jpg?w=225&quot; alt=&quot;IMG_1501&quot; /&gt;&lt;/a&gt;After 3.5 hours, we had reached the summit of Sgorr Bhan and its here where the three of us decided to retreat back down the way we came due to conditions instead of continuing onto Sgorr Dhearg. 2.5 hours later we returned back to the parking spot in front of the visitor centre in Ballachulish for celebratory coffee and cake of an awesome quality mountain day.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1488_3.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Sgorr Dhearg covered in cloud&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Sgorr Dhearg covered in cloud&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;The weather forecast had warned of gale force winds (up to 45mph) above 800 metres and although we had planned to do 2 Munros, we also planned to retreat if the winds on the summits where too treacherous. Higher up on the ridge line we had already been experiencing 30-35mph winds but we pushed on.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1496_4.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Ridgeline to the summit&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Ridgeline to the summit&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;When we hit the path up to the summit we entered cloud and visibility plummeted as well as winds increasing up to what felt like 40-50mph. The summit of Sgorr Bhan is quite exposed and the three of us had to crouch and scamper over the rocky ridge to the Munro summit cairn which we hid behind for a bit of shelter and recuperation.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1501_5.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;Summit at Sgorr Bhan&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Summit at Sgorr Bhan&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;After 3.5 hours, we had reached the summit of Sgorr Bhan and its here where the three of us decided to retreat back down the way we came due to conditions instead of continuing onto Sgorr Dhearg. 2.5 hours later we returned back to the parking spot in front of the visitor centre in Ballachulish for celebratory coffee and cake of an awesome quality mountain day.&lt;/p&gt;
 
 &lt;p&gt;A snap from about 700m on the route down:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1502.jpg&quot;&gt;&lt;img src=&quot;https://joncnicholas.files.wordpress.com/2015/10/img_1502.jpg?w=300&quot; alt=&quot;IMG_1502&quot; /&gt; &lt;/a&gt;The size and scale of the Scottish Highlands over shadows my normal stomping ground of the Lake District where most of the Munros are higher than Scafell Pike. As such, I am looking forward to culminating many more Munros in the years to come.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="outdoors" /><category term="Adventure" /><summary type="html">I’d been sowing the seeds with my mountaineering compardre to go and explore a different area of prime British mountains and Scotland was my number one choice. The predominant thing stopping us was finances as 4 days in Scotland were costing us as much as a European package holiday! However, we caught a break when a mutual friend owned a cottage in the Glencoe region of Scotland that he would let us use as long as we promised to take him along.</summary></entry><entry><title type="html">Montage video of a Flight in a PA28 Warrior</title><link href="http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2.html" rel="alternate" type="text/html" title="Montage video of a Flight in a PA28 Warrior" /><published>2015-10-20T21:06:58+01:00</published><updated>2015-10-20T21:06:58+01:00</updated><id>http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2</id><content type="html" xml:base="http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2.html">&lt;p&gt;Some memorable parts of a flight I took with a friend to Shoreham (from Stapleford) on the day of the Eastbourne Airshow in August 2015.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4000//post-img/outdoors/Scottish_Munro/img_1502_6.jpg&quot; style=&quot;max-width: 600px;&quot; alt=&quot;On the Descent&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;View from the Descent&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;The size and scale of the Scottish Highlands over shadows my normal stomping ground of the Lake District where most of the Munros are higher than Scafell Pike. As such, I am looking forward to culminating many more Munros in the years to come.&lt;/p&gt;</content><author><name>joncn89</name></author><category term="outdoors" /><category term="Adventure" /><summary type="html">I’d been sowing the seeds with my mountaineering compardre to go and explore a different area of prime British mountains and Scotland was my number one choice. The predominant thing stopping us was finances as 4 days in Scotland were costing us as much as a European package holiday! However, we caught a break when a mutual friend owned a cottage in the Glencoe region of Scotland that he would let us use as long as we promised to take him along.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img_1527_cover.jpg" /></entry><entry><title type="html">Montage video of a Flight in a PA28 Warrior</title><link href="http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2.html" rel="alternate" type="text/html" title="Montage video of a Flight in a PA28 Warrior" /><published>2015-10-20T21:06:58+01:00</published><updated>2015-10-20T21:06:58+01:00</updated><id>http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2</id><content type="html" xml:base="http://localhost:4000/flying/2015/highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2.html">&lt;p&gt;Some memorable parts of a flight I took with a friend to Shoreham (from Stapleford) on the day of the Eastbourne Airshow in August 2015.&lt;/p&gt;
 
 &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/197co60dZCs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -252,4 +481,4 @@
 
 &lt;p&gt;Best repeat ive ever had to say!&lt;/p&gt;
 
-&lt;p&gt;Enjoy!&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">Some memorable parts of a flight I took with a friend to Shoreham (from Stapleford) on the day of the Eastbourne Airshow in August 2015.</summary></entry></feed>
+&lt;p&gt;Enjoy!&lt;/p&gt;</content><author><name>joncn89</name></author><category term="flying" /><category term="Hour Building" /><summary type="html">Some memorable parts of a flight I took with a friend to Shoreham (from Stapleford) on the day of the Eastbourne Airshow in August 2015.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/EastBourne_airshow.jpg" /></entry></feed>

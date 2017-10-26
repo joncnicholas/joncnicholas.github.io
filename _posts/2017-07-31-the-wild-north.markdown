@@ -29,4 +29,22 @@ This was the first time I had soloed more than 250nm on my own and exceeded more
 
 Happy watching!
 
-[gallery ids="653,654,655" type="rectangular"]
+A few snaps when on the ground at humberside:
+
+{% include image.html
+            img="/post-img/flying/Wild_north/Humber.jpg"
+		max-width="600px"
+            title="Humber Thunderbirds"
+            caption="Thunderbird 3" %}
+
+{% include image.html
+            img="/post-img/flying/Wild_north/20170528_124228.jpg"
+		max-width="600px"
+            title="Humber Apron"
+            caption="Humberside Apron" %}
+
+{% include image.html
+            img="/post-img/flying/Wild_north/20170528_124350.jpg"
+		max-width="600px"
+            title="Humber Apron"
+            caption="A few neat aircraft in for maintenance/storage" %}

@@ -8,6 +8,7 @@ slug: a-starter-for-ten
 title: A Starter for Ten
 wordpress_id: 268
 icon: wordpress
+image: Tucano_flight.jpg
 category: flying
 tags:
 - PPL Training

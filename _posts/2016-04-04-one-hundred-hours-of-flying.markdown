@@ -8,6 +8,7 @@ slug: one-hundred-hours-of-flying
 title: One Hundred Hours of Flying
 wordpress_id: 422
 icon: wordpress
+image: 100_cover.jpg
 category: flying
 tags:
 - Hour Building

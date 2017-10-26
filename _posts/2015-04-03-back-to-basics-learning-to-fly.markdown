@@ -8,6 +8,7 @@ slug: back-to-basics-learning-to-fly
 title: Back to basics .... Learning to Fly
 wordpress_id: 251
 icon: wordpress
+image: tucano_cover.jpg
 category: flying
 tags:
 - PPL Training

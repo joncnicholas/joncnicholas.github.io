@@ -8,6 +8,7 @@ slug: highlights-of-a-stapleford-to-shoreham-flight-in-a-pa28-2
 title: Montage video of a Flight in a PA28 Warrior
 wordpress_id: 357
 icon: wordpress
+image: EastBourne_airshow.jpg
 category: flying
 tags:
 - Hour Building
@@ -20,9 +21,6 @@ Some memorable parts of a flight I took with a friend to Shoreham (from Staplefo
 A tally-ho moment (just wish i had the RAF tash to back it up):
 
 Waiting to take off at Shoreham at hold point K1 when I get the following radio message from Shoreham Tower:
-
-
-
 	
   * "GSACO (me), holding at Kilo 1 for the run and break spitfire"
 

@@ -103,9 +103,17 @@
 
 <p>I have created an Excel “Pre-Flight Calculator” (attached below) which effectively takes a set of variables and calculates: weight and balance (including fuel calculations), centre of gravity (CoG -including aircraft envelopes), and all necessary performance calculations. You cannot automate everything in navigation planning, but after a number of flights using various iterations of this calculator, I have been able to save circa 30-40 minutes on the morning If all pre-flight planning was complete prior.  The model does require input on a number of elements like landing &amp; take-off ground roll and assessment of conditions to establish what performance conditions are pertinent on the day. However, once these are known the results process is automated and near instant.</p>
 
-<p><img src="https://joncnicholas.files.wordpress.com/2016/01/pfpm_front.png" alt="PFPM_front" /></p>
+<!-- _includes/image.html -->
+<div class="image-wrapper">
+    
+        <img src="http://localhost:4000//post-img/flying/Performance_tools/pfpm_front.png" style="max-width: 1000px;" alt="Performance_Planning" />
+    
+    
+        <p class="image-caption">Performance Calculator front page</p>
+    
+</div>
 
-<p><a href="https://joncnicholas.files.wordpress.com/2017/07/pre-flight-calculator-v1-9-master.xlsx">Pre Flight Calculator v1.9 - Master</a></p>
+<p><a href="/post-img/flying/Performance_tools/Pre Flight Calculator v1.9 - Master.xlsx"><strong>Pre Flight Calculator v1.9 - Master</strong>.</a></p>
 
 <p>I have created the model based upon Stapleford Flight Centre aircraft and out of the box it is compatible with the following general aviation aircraft types: Cessna 152 &amp;172, Piper Warrior (PA28) and Arrow (PA28R). However, I have designed this model to be easily adaptable to any aircraft type with foundational excel knowledge given that the user knows the correct information to input i.e. aircraft schedule information, fuel limitations and aircraft envelope details. These can all be seen in ‘Aircraft Schedule info’ tab. What I have mentioned here is aimed at providing accurate weight, fuel and CoG representation. The last part of the model provides automated representation of the performance calculations. This section takes user input variables on airfield and performance conditions and uses model information in the ‘Airfields and Performance’ tab to accurately display required take-off and landing distances.</p>
 
@@ -119,19 +127,30 @@
     <p>If you want to use for general aviation purposes, then you can use this model out of the box with foundational excel knowledge. However, if you want to use it for new aircraft a basic understanding of excel formulae and logic is required to amend correctly.</p>
   </li>
   <li>
-    <p>The model only supports aircraft using AVGAS 100LL fuel with a Specific Gravity of 0.72. It is not compatible with AVTUR because of my current uses. However, the fuel calculations are actually derived using weights and conversions which can be seen in Appendix A tab (AVGAS based). <em>Functionality added in <strong>v1.7</strong> - See comment #2</em></p>
+    <p>The model only supports aircraft using AVGAS 100LL fuel with a Specific Gravity of 0.72. It is not compatible with AVTUR because of my current uses. However, the fuel calculations are actually derived using weights and conversions which can be seen in Appendix A tab (AVGAS based). <span style="color: red"><em>Functionality added in <strong>v1.7</strong> - See comment #2</em></span></p>
   </li>
   <li>
     <p>If you want to use the model with new aircraft types ensure you change the third and fourth yellow tabs (described above) and ensure you sanity check the variables sheet as larger aircraft will require more boxes for more passenger weights and therefore, a small change to the weight and balance tab to reflect the aircraft.</p>
   </li>
   <li>
-    <p>Units in this model are consistent throughout: Pounds [lbs] for weight and Litres [L] for volume. However, conversions to USG and Kilograms [kg] are present in relevant places. *As of <strong>v1.9</strong>, the introduction of meteorological units (hPa and degrees Centigrade) to ascertain pressure and density altitude in feet have been added - see comment #4.</p>
+    <p>Units in this model are consistent throughout: Pounds [lbs] for weight and Litres [L] for volume. However, conversions to USG and Kilograms [kg] are present in relevant places. <span style="color: red">*As of <strong>v1.9</strong>, the introduction of meteorological units (hPa and degrees Centigrade) to ascertain pressure and density altitude in feet have been added - see comment #4.</span></p>
   </li>
 </ol>
 
 <p>I’d relish feedback on the attached model so please use it, adjust it and disperse it to your heart’s content. Likewise, please feel free to comment.</p>
 
 <p>I enjoyed producing this tool as it has given me a better understanding of the aircraft I fly, allowed me to become more efficient in my navigation planning and ultimately I hope it leads me to become a safer pilot.</p>
+
+<h1> Change Control </h1>
+
+<p><strong>1. Minor update to the calculator (v1.5 –&gt;1.6 – January 08, 2016):</strong><br />
+	Implemented automated update of distinct types in input Tabs 3 &amp; 4 with array formulas – This allows aircraft types and new airfields to be automatically generated (limiting manual changes by user).<br />
+<strong>2. Minor update to the calculator (v1.6 –&gt;1.7 – February 05, 2016):</strong><br />
+	Implemented fuel variables (AVGAS &amp; AVTUR) with Specific Gravity 0.72 and 0.8 respectively. Appendix 2 added for conversion table.<br />
+<strong>3. Minor update to the calculator (v1.7 -&gt; 1.8 – July 05, 2016):</strong><br />
+	Implemented the Piper Arrow II &amp; III (PA28-200 &amp; PA28-201) including envelopes and tested for any errors which came up clean.<br />
+<strong>4. Functionality update to the calculator (v1.8 -&gt; 1.9 – July 07, 2017):</strong><br />
+	Implementation of meteorological units (hPa and degrees Centigrade) and airfield elevation (ft) to ascertain pressure and density altitude in feet. Density altitude formula taken from <a href="https://www.aopa.org/training-and-safety/active-pilots/safety-and-technique/weather/density-altitude"><strong>AOPA</strong>.</a><br /></p>
 
 </div>
 </article>

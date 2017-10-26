@@ -8,6 +8,7 @@ slug: first-flyout-2017
 title: First Flyout - 2017
 wordpress_id: 574
 icon: wordpress
+image: easy.jpg
 category: flying
 tags:
 - Hour Building
@@ -27,6 +28,36 @@ The precise routing in GBTGY (my aircraft) took:
 
 Coventry airport has the Midland Air museum on site and its absolutely fantastic. Your greeted by a hanger full of awesome 40s-80s era aircraft. The outside exhibits however, are the icing on the cake, cold war European, Russian and American aircraft of all uses and sizes. The cherry is the stationed Vulcan where you can sit in the cockpit. An absolute highlight for me, as I had never sat inside one before.
 
+{% include image.html
+            img="/post-img/flying/1st_2017/20170102_132722.jpg"
+		max-width="600px"
+            title="Avro Vulcan"
+            caption="Avro Vulcan" %}
+
+{% include image.html
+            img="/post-img/flying/1st_2017/20170102_133658.jpg"
+		max-width="600px"
+            title="Inside the Vulcan"
+            caption="Avro Vulcan Cockpit" %}
+
 A key memorable moment and learning experience was the transition of Luton Airspace returning from Coventry, thinking it was a bank holiday and it would be quiet. Actually it was the counter opposite. There I am furiously scribbling the controller’s instructions, looking for a landing Gulfstream to transit behind and the sun blaring in my face, all whilst the controller tells me: “GBTGY, you’re going to have to be quicker with your responses”. Does that mean I’ve earned my wings after being told off by ATC for being slow?
 
-[gallery ids="585,584,583,582,581,580,577,578,579" type="circle"]
+{% include image.html
+            img="/post-img/flying/1st_2017/img-20170104-wa0002.jpg"
+		max-width="600px"
+            title="EasyJet Hangar at Luton"
+            caption="EasyJet Hangar at Luton" %}
+
+A few final snaps at or inflight to Coventry:
+
+{% include image.html
+            img="/post-img/flying/1st_2017/20170102_132342.jpg"
+		max-width="600px"
+            title="Midlands Aviation Museum"
+            caption="Midlands Aviation Museum" %}
+
+{% include image.html
+            img="/post-img/flying/1st_2017/img-20170102-wa0003.jpg"
+		max-width="600px"
+            title="Luton Final Approach"
+            caption="Luton Final Approach" %}

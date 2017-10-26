@@ -8,6 +8,7 @@ slug: my-first-scottish-munro
 title: My First Scottish Munro
 wordpress_id: 363
 icon: wordpress
+image: img_1527_cover.jpg
 category: outdoors
 tags:
 - Adventure
@@ -23,16 +24,52 @@ An early start on the 23/10 was to get us out walking by 0830am at the foot of S
 
 The route began with a steep and gruelling slog up the pathless lower slops overhead Ballachulish with The Pap in the background.
 
-[![IMG_1475](https://joncnicholas.files.wordpress.com/2015/10/img_1475.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/10/img_1475.jpg)The first few hours of the day where the hardest because we climbed over 700 metres in less than a single kilometre but this meant we did start to get some pretty spectacular views with Ballachulish Bridge coming into view and the Glencoe Valley later on.
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1475_1.jpg"
+		max-width="600px"
+            title="lower slops overhead Ballachulish with The Pap in the background"
+            caption="Overhead Ballachulish with The Pap in the background" %}
 
-[![IMG_1489](https://joncnicholas.files.wordpress.com/2015/10/img_1489.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/10/img_1489.jpg)After climbing up the lower slopes we hit a ridge which uncovered the path which we picked up heading for the ridge line. Once onto the ridge, it is a fine walk on a good path, which soon shows our summit just touching the cloud line with the second higher summit Sgorr Dhearg covered in cloud behind it.
+The first few hours of the day where the hardest because we climbed over 700 metres in less than a single kilometre but this meant we did start to get some pretty spectacular views with Ballachulish Bridge coming into view and the Glencoe Valley later on.
 
-[![IMG_1488](https://joncnicholas.files.wordpress.com/2015/10/img_1488.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/10/img_1488.jpg)The weather forecast had warned of gale force winds (up to 45mph) above 800 metres and although we had planned to do 2 Munros, we also planned to retreat if the winds on the summits where too treacherous. Higher up on the ridge line we had already been experiencing 30-35mph winds but we pushed on.
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1489_2.jpg"
+		max-width="600px"
+            title="Glencoe Valley"
+            caption="Glencoe Valley" %}
 
-[![IMG_1496](https://joncnicholas.files.wordpress.com/2015/10/img_1496.jpg?w=300)](https://joncnicholas.files.wordpress.com/2015/10/img_1496.jpg)When we hit the path up to the summit we entered cloud and visibility plummeted as well as winds increasing up to what felt like 40-50mph. The summit of Sgorr Bhan is quite exposed and the three of us had to crouch and scamper over the rocky ridge to the Munro summit cairn which we hid behind for a bit of shelter and recuperation.
+After climbing up the lower slopes we hit a ridge which uncovered the path which we picked up heading for the ridge line. Once onto the ridge, it is a fine walk on a good path, which soon shows our summit just touching the cloud line with the second higher summit Sgorr Dhearg covered in cloud behind it.
 
-[![IMG_1501](https://joncnicholas.files.wordpress.com/2015/10/img_1501-e1445976449760.jpg?w=225)](https://joncnicholas.files.wordpress.com/2015/10/img_1501.jpg)After 3.5 hours, we had reached the summit of Sgorr Bhan and its here where the three of us decided to retreat back down the way we came due to conditions instead of continuing onto Sgorr Dhearg. 2.5 hours later we returned back to the parking spot in front of the visitor centre in Ballachulish for celebratory coffee and cake of an awesome quality mountain day.
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1488_3.jpg"
+		max-width="600px"
+            title="Sgorr Dhearg covered in cloud"
+            caption="Sgorr Dhearg covered in cloud" %}
+
+The weather forecast had warned of gale force winds (up to 45mph) above 800 metres and although we had planned to do 2 Munros, we also planned to retreat if the winds on the summits where too treacherous. Higher up on the ridge line we had already been experiencing 30-35mph winds but we pushed on.
+
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1496_4.jpg"
+		max-width="600px"
+            title="Ridgeline to the summit"
+            caption="Ridgeline to the summit" %}
+
+When we hit the path up to the summit we entered cloud and visibility plummeted as well as winds increasing up to what felt like 40-50mph. The summit of Sgorr Bhan is quite exposed and the three of us had to crouch and scamper over the rocky ridge to the Munro summit cairn which we hid behind for a bit of shelter and recuperation.
+
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1501_5.jpg"
+		max-width="600px"
+            title="Summit at Sgorr Bhan"
+            caption="Summit at Sgorr Bhan" %}
+
+After 3.5 hours, we had reached the summit of Sgorr Bhan and its here where the three of us decided to retreat back down the way we came due to conditions instead of continuing onto Sgorr Dhearg. 2.5 hours later we returned back to the parking spot in front of the visitor centre in Ballachulish for celebratory coffee and cake of an awesome quality mountain day.
 
 A snap from about 700m on the route down:
 
-[![IMG_1502](https://joncnicholas.files.wordpress.com/2015/10/img_1502.jpg?w=300) ](https://joncnicholas.files.wordpress.com/2015/10/img_1502.jpg)The size and scale of the Scottish Highlands over shadows my normal stomping ground of the Lake District where most of the Munros are higher than Scafell Pike. As such, I am looking forward to culminating many more Munros in the years to come.
+{% include image.html
+            img="/post-img/outdoors/Scottish_Munro/img_1502_6.jpg"
+		max-width="600px"
+            title="On the Descent"
+            caption="View from the Descent" %}
+
+The size and scale of the Scottish Highlands over shadows my normal stomping ground of the Lake District where most of the Munros are higher than Scafell Pike. As such, I am looking forward to culminating many more Munros in the years to come.

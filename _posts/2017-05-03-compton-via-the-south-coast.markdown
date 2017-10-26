@@ -8,6 +8,7 @@ slug: compton-via-the-south-coast
 title: Compton via the South Coast
 wordpress_id: 597
 icon: wordpress
+image: Harvard.jpg
 category: flying
 tags:
 - Hour Building
@@ -25,6 +26,23 @@ We returned via the Southampton-Bournemouth airspace gap to Cowes, along the sou
 
 Happy watching!
 
-[gallery ids="625,623,619,618,617" type="circle"]
+A few snaps when on the ground at Compton:
 
+{% include image.html
+            img="/post-img/flying/Compton_via_south/20170414_134626.jpg"
+		max-width="600px"
+            title="Blue Tuger Moth"
+            caption="Lovely Blue Tiger Moth" %}
+
+{% include image.html
+            img="/post-img/flying/Compton_via_south/20170414_134845.jpg"
+		max-width="600px"
+            title="Harvard"
+            caption="A flying T6 Harvard!" %}
+
+{% include image.html
+            img="/post-img/flying/Compton_via_south/20170414_135136.jpg"
+		max-width="600px"
+            title="RAF Bulldog"
+            caption="An old RAF Bulldog" %}
 

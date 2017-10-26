@@ -16,9 +16,10 @@
 title: Jonathan Nicholas
 description: > # this means to ignore newlines until "baseurl:"
   My name is Jonathan Nicholas, and I am a former information security consultant, turned pilot in training. If you wish, you can find out more <a href="/about/">About</a> me.<br><br>
+  I embarked upon a career change that saw a decade long passion become a pursuit of a career. Over the past 5 years, I have been saving to follow my dream of becoming a commercial pilot and I am using this blog as a record embarking on the biggest challenge I have undertaken.<br><br>
   I have created this website because I find that reflecting on experiences is an important way of learning from them.<br>
   Furthermore, I want this website to be a resource to learn from where anyone else in similar shoes.<br>
-  <br>Please check out my posts on the Blog.<br> 
+  <br>Please check out my posts and write comments.<br> 
   <br>Happy reading!<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joncnicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
